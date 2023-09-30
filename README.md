@@ -117,11 +117,18 @@ For other extra credit ideas, consult with your instructor.
 
 ### Deliverables:
 
+To deploy your assignment, use:
+
+```bash
+ vercal .
+```
+
+To deploy your assignment to production, use:
+
+```bash
+ vercal --prod
+```
+
 Submit your Vercel deployment URL in Blackboard.
 
 **Note:** While functionality is crucial, a well-designed and visually appealing user interface also plays a significant role.
-
-```
-
-I've mainly enhanced clarity, made instructions more direct, improved the Grading Rubrics table, and provided a more consistent Markdown formatting.
-```
